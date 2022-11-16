@@ -11,6 +11,7 @@
   
   ## Description
   This is a command-line application you can use to generate professional README files for your project repos.
+  The application repo can be found at https://github.com/hklotz13/Professional-README-Generator, and a video demo can be found 
 
   ## Installation
   Clone this repository to install.
