@@ -8,7 +8,6 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [Credits](#credits)
   
   ## Description
   This is a command-line application you can use to generate professional README files for your project repos.
@@ -30,5 +29,7 @@
 
   ## Questions
   Have any questions? You can reach me here:
+
   GitHub: https://github.com/hklotz13
+  
   Email: harperklotzwriting@gmail.com
